@@ -482,6 +482,9 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#f7ed4a"
+            },
+            ".mbr-text, .mbr-section-btn B": {
+              "color": "#f7ed4a"
             }
           },
           "_name": "header2",

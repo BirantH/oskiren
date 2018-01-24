@@ -3,7 +3,7 @@
     "name": "English",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 108,
+    "uniqCompNum": 112,
     "versionPublish": "4.6.0",
     "theme": {
       "name": "mobirise4",
@@ -53,8 +53,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Ana Sayfa",
-        "meta_descr": "Home Page",
+        "title": "Home Page - Oskır Engineering Inc.",
+        "meta_descr": "The Leading Company in Engineering",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -939,9 +939,9 @@
     },
     "services.html": {
       "settings": {
-        "meta_descr": "Our Services",
-        "title": "Hizmetlerimiz",
-        "order": 1
+        "meta_descr": "The Leading Company in Engineering",
+        "title": "Services - Oskır Engineering Inc.",
+        "order": 2
       },
       "components": [
         {
@@ -1353,9 +1353,9 @@
     },
     "values.html": {
       "settings": {
-        "meta_descr": "Our Values",
-        "title": "Değerlerimiz",
-        "order": 2
+        "meta_descr": "The Leading Company in Engineering",
+        "title": "Values - Oskır Engineering Inc.",
+        "order": 3
       },
       "components": [
         {
@@ -1767,9 +1767,9 @@
     },
     "countinuous.html": {
       "settings": {
-        "meta_descr": "Our Continuous Projects",
-        "title": "Devam Eden",
-        "order": 3
+        "meta_descr": "The Leading Company in Engineering",
+        "title": "Continuous Projects - Oskır Engineering Inc.",
+        "order": 4
       },
       "components": [
         {
@@ -2422,9 +2422,9 @@
     },
     "carrier.html": {
       "settings": {
-        "meta_descr": "Application for Carrier With Us",
-        "title": "Kariyer",
-        "order": 5
+        "meta_descr": "The Leading Company in Engineering",
+        "title": "Carrier - Oskır Engineering Inc.",
+        "order": 6
       },
       "components": [
         {
@@ -2836,9 +2836,9 @@
     },
     "contact.html": {
       "settings": {
-        "meta_descr": "Contact Us",
-        "title": "İletişim",
-        "order": 6
+        "meta_descr": "The Leading Company in Engineering",
+        "title": "Contact - Oskır Engineering Inc.",
+        "order": 7
       },
       "components": [
         {
@@ -3374,9 +3374,9 @@
     },
     "finished.html": {
       "settings": {
-        "meta_descr": "Our Finished Projects",
-        "title": "Biten",
-        "order": 4
+        "meta_descr": "The Leading Company in Engineering",
+        "title": "Finished Projects - Oskır Engineering Inc.",
+        "order": 5
       },
       "components": [
         {
@@ -3912,7 +3912,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Bu Sayfa Yapım Aşamasındadır",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4351,7 +4351,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Duyurular",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
